@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-sphere.1",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v0.18.0-sphere.1",
-  "notes": "First Sphere Bot release: Google sign-in through the Sphere website, Codex and OpenRouter routing, the shared E2B computer, baked skills, and the desktop bot overlay (Options > Show bot on desktop).",
+  "version": "v0.18.0-sphere.2",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v0.18.0-sphere.2",
+  "notes": "Teach works: bots watch your recording with the Router's new Video model (a Gemini model on OpenRouter), even when you use Codex. Bots now see screenshots and pictures on Codex and OpenRouter. Subagents get their own instructions and tools. The chat box tells you when the model can't take a file you attach. X hides Sphere Bot to the tray. Cursor connectors sign in again.",
   "asset": {
-    "id": 558543267,
+    "id": 559308573,
     "name": "Sphere_Bot_0.18.0_Setup.exe",
-    "size": 119956446,
-    "sha256": "5509e6380efa9d48e6f88274e14f4025c99437109abdc0a5961752a8055ce039"
+    "size": 119953866,
+    "sha256": "d7b0fa9d9b863ba0dd83f5ddf1f3cf6978d8bff41c2ace989ba370f82f10231f"
   }
 }
