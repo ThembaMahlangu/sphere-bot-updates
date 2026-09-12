@@ -1,0 +1,11 @@
+{
+  "version": "v0.18.0-sphere.1",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v0.18.0-sphere.1",
+  "notes": "First Sphere Bot release: Google sign-in through the Sphere website, Codex and OpenRouter routing, the shared E2B computer, baked skills, and the desktop bot overlay (Options > Show bot on desktop).",
+  "asset": {
+    "id": 558543267,
+    "name": "Sphere_Bot_0.18.0_Setup.exe",
+    "size": 119956446,
+    "sha256": "5509e6380efa9d48e6f88274e14f4025c99437109abdc0a5961752a8055ce039"
+  }
+}
