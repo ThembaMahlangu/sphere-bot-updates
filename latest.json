@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-sphere.3",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v0.18.0-sphere.3",
-  "notes": "Sphere Bot is lighter: the app now draws with your graphics card, so scrolling the chat and Settings is smooth, and the desktop bot no longer slows down the rest of your PC. Bots on Codex and OpenRouter can now search the web and read web pages, and a model calling a tool it doesn't have no longer stops the reply. The version check now simply says whether an update is waiting.",
+  "version": "v0.18.0-sphere.4",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v0.18.0-sphere.4",
+  "notes": "Sphere Bot now also runs in the browser at products.asynccreatives.co.za/app, on the same computer as your desktop app: a desktop you install later joins your existing computer and keeps its settings. Plugins are now called Connectors. Exit App in the tray quits properly with the desktop bot on, and the start screen no longer flashes onboarding while your computer wakes.",
   "asset": {
-    "id": 559629896,
+    "id": 560364704,
     "name": "Sphere_Bot_0.18.0_Setup.exe",
-    "size": 119957832,
-    "sha256": "2643d70c42c4574f376d3f8738febc5ea364674ee7e54e5da9813b258dcdb8b6"
+    "size": 119968465,
+    "sha256": "ec6e8b070d175a21de6c283ec71ed467aef399687b0897ed37971507b4e212cf"
   }
 }
