@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-sphere.5",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v0.18.0-sphere.5",
-  "notes": "Your computer keeps working in the cloud after you close Sphere Bot, until your plan's time runs out, then pauses until you open it again. Closing the app no longer leaves a background process running. The web app's screen preview no longer gets stuck on Reconnecting.",
+  "version": "v1.0.0",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.0",
+  "notes": "Sphere Bot now has its own version numbers, starting at 1.0.0, and the About window shows it without the Copy version info button. In the web app, Connectors work like they do in the desktop app: browse, install and use them there, and sign in to a connector from the desktop app. The web app has no Updates tab, and signing out of it takes you back to the website.",
   "asset": {
-    "id": 560937005,
-    "name": "Sphere_Bot_0.18.0_Setup.exe",
-    "size": 119971166,
-    "sha256": "5c9436cd23a79997aab868d80b72d5a7adb8aa987951da2bd0669671679a0ca6"
+    "id": 561236388,
+    "name": "Sphere_Bot_1.0.0_Setup.exe",
+    "size": 119961292,
+    "sha256": "cce8bd0a50e2232ce74389ca88981ae3e377810a7a5a2170d287ad5b957b8e13"
   }
 }
