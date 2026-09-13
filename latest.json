@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-sphere.4",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v0.18.0-sphere.4",
-  "notes": "Sphere Bot now also runs in the browser at products.asynccreatives.co.za/app, on the same computer as your desktop app: a desktop you install later joins your existing computer and keeps its settings. Plugins are now called Connectors. Exit App in the tray quits properly with the desktop bot on, and the start screen no longer flashes onboarding while your computer wakes.",
+  "version": "v0.18.0-sphere.5",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v0.18.0-sphere.5",
+  "notes": "Your computer keeps working in the cloud after you close Sphere Bot, until your plan's time runs out, then pauses until you open it again. Closing the app no longer leaves a background process running. The web app's screen preview no longer gets stuck on Reconnecting.",
   "asset": {
-    "id": 560364704,
+    "id": 560937005,
     "name": "Sphere_Bot_0.18.0_Setup.exe",
-    "size": 119968465,
-    "sha256": "ec6e8b070d175a21de6c283ec71ed467aef399687b0897ed37971507b4e212cf"
+    "size": 119971166,
+    "sha256": "5c9436cd23a79997aab868d80b72d5a7adb8aa987951da2bd0669671679a0ca6"
   }
 }
