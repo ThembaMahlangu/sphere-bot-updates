@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.0",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.0",
-  "notes": "Sphere Bot now has its own version numbers, starting at 1.0.0, and the About window shows it without the Copy version info button. In the web app, Connectors work like they do in the desktop app: browse, install and use them there, and sign in to a connector from the desktop app. The web app has no Updates tab, and signing out of it takes you back to the website.",
+  "product": "sphere-bot",
+  "version": "v1.0.1",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.1",
   "asset": {
-    "id": 561236388,
-    "name": "Sphere_Bot_1.0.0_Setup.exe",
-    "size": 119961292,
-    "sha256": "cce8bd0a50e2232ce74389ca88981ae3e377810a7a5a2170d287ad5b957b8e13"
+    "id": 577387766,
+    "name": "Sphere_Bot_1.0.1_Setup.exe",
+    "size": 114222164,
+    "sha256": "932385d8aaa1188ceb04f8725ceb8c17e94429fb9e24a2c49a7ced65f494e62b"
   }
 }
