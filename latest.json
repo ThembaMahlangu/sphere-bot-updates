@@ -1,11 +1,11 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.3",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.3",
+  "version": "v1.0.4",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.4",
   "asset": {
-    "id": 579474892,
-    "name": "Sphere_Bot_1.0.3_Setup.exe",
-    "size": 114322263,
-    "sha256": "c9ddb738dfd00379ec67bcc0bde759f7f840095ecc52d582edd52fd4d5bed214"
+    "id": 579788902,
+    "name": "Sphere_Bot_1.0.4_Setup.exe",
+    "size": 114365891,
+    "sha256": "59e431a6437d33c6eec8dd78b6e9339b4ff598918af880f0ce35d9e55987f794"
   }
 }
