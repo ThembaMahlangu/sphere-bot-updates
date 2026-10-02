@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.8",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.8",
-  "notes": "Sphere Bot 1.0.8 brings the Workspace brand to Windows and the web, moves product integration to spherebotapp.com, keeps unavailable connectors visible and improves connector setup controls.",
+  "version": "v1.0.9",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.9",
+  "notes": "## Sphere Bot 1.0.9\n\n- Use the new Workspace icon consistently in the Windows taskbar, tray and shortcuts.\n- Install through a branded setup screen with a simple flow and no directory-selection page.\n- Show progress during Restart to Update and reopen Sphere Bot visibly when installation finishes.\n- Fix update verification when Windows PowerShell cannot load Get-FileHash.\n\nThis release preserves existing accounts, conversations and settings.",
   "asset": {
-    "id": 604407802,
-    "name": "Sphere_Bot_1.0.8_Setup.exe",
-    "size": 114282739,
-    "sha256": "3c46f3f1fa48e2b1ff8cc5e50b38a90e787289dcb58d8f6d89491c28fc398e94"
+    "id": 604512420,
+    "name": "Sphere_Bot_1.0.9_Setup.exe",
+    "size": 114336141,
+    "sha256": "6fd2076466af7c7855410ac296368107852b1b9f27a843f7d1361b76930aa171"
   }
 }
