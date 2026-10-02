@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.10",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.10",
-  "notes": "Sphere Bot 1.0.10\n\nChoose OpenAI, Anthropic, Google Gemini, xAI, Groq, DeepSeek or Mistral directly with your API keys, alongside OpenRouter, Codex and custom endpoints. Set independent models for conversations, subagents and cloud agents. Teams can share provider keys through owner-controlled routing while retaining member permissions and token allocations.\n\nThe routing dashboard now includes API-key help links. Model lists refresh after credentials change. Provider tool-call continuation and streamed usage handling are included. The paired website presents the expanded provider choices with a wider page layout.\n\nWindows x64 installer. The website and web app are available at https://spherebotapp.com.\n",
+  "version": "v1.0.11",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.11",
+  "notes": "Fixes Restart and update closing the app without installing. The Windows helper now survives app exit and shows progress through installation and relaunch. Existing v1.0.9 or v1.0.10 installations need one manual installer run to receive this updater fix.",
   "asset": {
-    "id": 606230075,
-    "name": "Sphere_Bot_1.0.10_Setup.exe",
-    "size": 114302407,
-    "sha256": "a42f34e308c0f7ebcf49ef2ed2ad0be0dac6bb1288999f7b73a35a1e123eafdf"
+    "id": 606388368,
+    "name": "Sphere_Bot_1.0.11_Setup.exe",
+    "size": 114318591,
+    "sha256": "e8378b255787ef9f93da603513434143b6b6860d4f41008ccf0177345b5b2ccb"
   }
 }
