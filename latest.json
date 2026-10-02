@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.9",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.9",
-  "notes": "## Sphere Bot 1.0.9\n\n- Use the new Workspace icon consistently in the Windows taskbar, tray and shortcuts.\n- Install through a branded setup screen with a simple flow and no directory-selection page.\n- Show progress during Restart to Update and reopen Sphere Bot visibly when installation finishes.\n- Fix update verification when Windows PowerShell cannot load Get-FileHash.\n\nThis release preserves existing accounts, conversations and settings.",
+  "version": "v1.0.10",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.10",
+  "notes": "Sphere Bot 1.0.10\n\nChoose OpenAI, Anthropic, Google Gemini, xAI, Groq, DeepSeek or Mistral directly with your API keys, alongside OpenRouter, Codex and custom endpoints. Set independent models for conversations, subagents and cloud agents. Teams can share provider keys through owner-controlled routing while retaining member permissions and token allocations.\n\nThe routing dashboard now includes API-key help links. Model lists refresh after credentials change. Provider tool-call continuation and streamed usage handling are included. The paired website presents the expanded provider choices with a wider page layout.\n\nWindows x64 installer. The website and web app are available at https://spherebotapp.com.\n",
   "asset": {
-    "id": 604512420,
-    "name": "Sphere_Bot_1.0.9_Setup.exe",
-    "size": 114336141,
-    "sha256": "6fd2076466af7c7855410ac296368107852b1b9f27a843f7d1361b76930aa171"
+    "id": 606230075,
+    "name": "Sphere_Bot_1.0.10_Setup.exe",
+    "size": 114302407,
+    "sha256": "a42f34e308c0f7ebcf49ef2ed2ad0be0dac6bb1288999f7b73a35a1e123eafdf"
   }
 }
