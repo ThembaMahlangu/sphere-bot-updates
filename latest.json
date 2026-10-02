@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.6",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.6",
-  "notes": "Sphere Bot 1.0.6\n\n- Sign in with email and password or Google, reuse a website account on Windows and complete routing setup before opening the app.\n- Manage account-synced connectors from the app or dashboard, with shared categories, provider logos, secure fields and server-managed availability.\n- Use cloud computers and approved personal or team computer settings, with template build controls and reliable reconnects.\n- Choose an accent, manage bot-created skills from main Settings and use the app-styled close choices.\n- View local-time usage and diagnostics, with immediate quit and tray feedback.\n- Explore the Sphere Bot website, approved plan features and product Privacy, Terms and Refunds policies.\n\nWindows 10 or later, x64. The installer is per-user and unsigned. Model-provider setup and account access are required. Paid checkout is not part of this release.",
+  "version": "v1.0.8",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.8",
+  "notes": "Sphere Bot 1.0.8 brings the Workspace brand to Windows and the web, moves product integration to spherebotapp.com, keeps unavailable connectors visible and improves connector setup controls.",
   "asset": {
-    "id": 604172875,
-    "name": "Sphere_Bot_1.0.6_Setup.exe",
-    "size": 114843083,
-    "sha256": "29118b3bea0a46c6df1bee7954eb9cb51e9851c3c3c86ae08050ccb7881d7c24"
+    "id": 604407802,
+    "name": "Sphere_Bot_1.0.8_Setup.exe",
+    "size": 114282739,
+    "sha256": "3c46f3f1fa48e2b1ff8cc5e50b38a90e787289dcb58d8f6d89491c28fc398e94"
   }
 }
