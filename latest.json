@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.11",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.11",
-  "notes": "Fixes Restart and update closing the app without installing. The Windows helper now survives app exit and shows progress through installation and relaunch. Existing v1.0.9 or v1.0.10 installations need one manual installer run to receive this updater fix.",
+  "version": "v1.0.12",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.12",
+  "notes": "Restored connector categories and logos. External Sphere MCP with account-managed permissions. Matching Windows and web apps.",
   "asset": {
-    "id": 606388368,
-    "name": "Sphere_Bot_1.0.11_Setup.exe",
-    "size": 114318591,
-    "sha256": "e8378b255787ef9f93da603513434143b6b6860d4f41008ccf0177345b5b2ccb"
+    "id": 606914213,
+    "name": "Sphere_Bot_1.0.12_Setup.exe",
+    "size": 122606726,
+    "sha256": "55a8b1fb7a8c97dc2edc33620d83a3cc9260ef9c58ac3f5a02162c3788179715"
   }
 }
