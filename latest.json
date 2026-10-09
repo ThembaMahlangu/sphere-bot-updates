@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.12",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.12",
-  "notes": "Restored connector categories and logos. External Sphere MCP with account-managed permissions. Matching Windows and web apps.",
+  "version": "v1.0.13",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.13",
+  "notes": "Fixes Codex image generation tool messages, Remotion connector availability, fitted web computer controls, first-open themes, plan permissions and setup command approval. Adds dashboard API-key guidance, direct Windows Store update checks, centralized encrypted routing and verified Turso account storage.",
   "asset": {
-    "id": 606914213,
-    "name": "Sphere_Bot_1.0.12_Setup.exe",
-    "size": 122606726,
-    "sha256": "55a8b1fb7a8c97dc2edc33620d83a3cc9260ef9c58ac3f5a02162c3788179715"
+    "id": 624629745,
+    "name": "Sphere_Bot_1.0.13_Setup.exe",
+    "size": 122634856,
+    "sha256": "783f24456b5f3bebe40e4c690665b6ad6e12bb99d5dc9d4fa3aa008327069ad1"
   }
 }
