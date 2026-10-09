@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.13",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.13",
-  "notes": "Fixes Codex image generation tool messages, Remotion connector availability, fitted web computer controls, first-open themes, plan permissions and setup command approval. Adds dashboard API-key guidance, direct Windows Store update checks, centralized encrypted routing and verified Turso account storage.",
+  "version": "v1.0.14",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.14",
+  "notes": "## Sphere Bot v1.0.14\n\n- Fit the web computer preview to its frame using the actual screen dimensions.\n- Use the computer's native noVNC page and controls when opening the interactive web screen.\n- Move product-owned VM credentials, terminal files, skills, artifacts and SDK folders to Sphere paths while preserving existing data.\n- Update both new-computer startup and existing-computer upgrades, including the image's fallback loader and native process scanner.\n- Keep historical terminal references readable and retain required third-party license attribution.\n\nThe matching Microsoft Store package is prepared for certification. Windows installs Store-certified updates for Store installations.\n",
   "asset": {
-    "id": 624629745,
-    "name": "Sphere_Bot_1.0.13_Setup.exe",
-    "size": 122634856,
-    "sha256": "783f24456b5f3bebe40e4c690665b6ad6e12bb99d5dc9d4fa3aa008327069ad1"
+    "id": 625648906,
+    "name": "Sphere_Bot_1.0.14_Setup.exe",
+    "size": 122611052,
+    "sha256": "af49f5fce2f18a496307794f270c6325177872d053e8e223e62f1bb54da04d4e"
   }
 }
