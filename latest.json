@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.14",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.14",
-  "notes": "## Sphere Bot v1.0.14\n\n- Fit the web computer preview to its frame using the actual screen dimensions.\n- Use the computer's native noVNC page and controls when opening the interactive web screen.\n- Move product-owned VM credentials, terminal files, skills, artifacts and SDK folders to Sphere paths while preserving existing data.\n- Update both new-computer startup and existing-computer upgrades, including the image's fallback loader and native process scanner.\n- Keep historical terminal references readable and retain required third-party license attribution.\n\nThe matching Microsoft Store package is prepared for certification. Windows installs Store-certified updates for Store installations.\n",
+  "version": "v1.0.15",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.15",
+  "notes": "Sphere Bot v1.0.15\n\n- Gentle Curve faces with realistic material and stable eye size across expressions and gaze.\n- Searchable, organized desktop settings and cleaner account/dashboard settings.\n- Interactive website product demo with whole messages, file previews and fitted computer scenes.\n- Account Codex model and reasoning selectors, plus redesigned sign-in and signup.\n- Reliable Restart and update shutdown, scoped local process cleanup and Sphere-branded update progress.\n- Disposable-email registration protection using a maintained domain list, with administrator controls to block existing accounts and pause their cloud computers.\n- Recovery of owned computers already paused during prior cleanup.\n\nThe Microsoft Store update is submitted separately and becomes available after Microsoft certification.\n",
   "asset": {
-    "id": 625648906,
-    "name": "Sphere_Bot_1.0.14_Setup.exe",
-    "size": 122611052,
-    "sha256": "af49f5fce2f18a496307794f270c6325177872d053e8e223e62f1bb54da04d4e"
+    "id": 629347711,
+    "name": "Sphere_Bot_1.0.15_Setup.exe",
+    "size": 123076751,
+    "sha256": "8a25f9d01754f9382855f78104845fb064f4adfced15c6b53710ac88dd81f7b5"
   }
 }
