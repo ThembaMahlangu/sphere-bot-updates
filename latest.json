@@ -2,7 +2,7 @@
   "product": "sphere-bot",
   "version": "v1.2.0",
   "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.2.0",
-  "notes": "Sphere Bot 1.2.0\n\nCreate a team of AI bots and give each one a job. Follow conversations, computer work and returned files in one workspace.\n\n- Meet the Gentle Curve characters, with realistic materials, expressive eyes and a choice of shapes and colours.\n- Create your first bot with guided setup, example jobs and suggestions based on the tools you use.\n- Connect the services your tasks need and manage their permissions from the Connectors screen.\n- Personalise your workspace with organised settings for appearance, models, providers and your computer.\n- Continue working on Windows or in the web app with your Sphere account.\n\nExplore the refreshed website and getting-started guide at spherebotapp.com.\n",
+  "notes": "Sphere Bot 1.2.0\n\nCreate AI work companions and give each one a job. Follow conversations, computer work and returned files in one workspace.\n\n- Meet the Gentle Curve characters, with realistic materials, expressive eyes and a choice of shapes and colours.\n- Create your first work companion with guided setup, example jobs and suggestions based on the tools you use.\n- Connect the services your tasks need and manage their permissions from the Connectors screen.\n- Personalise your workspace with organised settings for appearance, models, providers and your computer.\n- Continue working on Windows or in the web app with your Sphere account.\n\nExplore the refreshed website and getting-started guide at spherebotapp.com.\n",
   "asset": {
     "id": 629571312,
     "name": "Sphere_Bot_1.2.0_Setup.exe",
