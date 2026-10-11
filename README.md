@@ -1,29 +1,21 @@
-# sphere-bot-updates
+# Sphere Bot updates
 
-The update manifest for Sphere Bot, and nothing else.
+Public Windows installer releases and update metadata for Sphere Bot.
 
-Sphere Bot is a private application. This repository exists only so an
-installed copy can ask whether a newer version has been published, without the
-application carrying a credential to read a private repository.
+## Current Windows release: v1.0.15
 
-`latest.json` holds the published version, a link to its release, and the
-identity of its installer:
+[Download Sphere Bot v1.0.15](https://github.com/ThembaMahlangu/sphere-bot-updates/releases/download/v1.0.15/Sphere_Bot_1.0.15_Setup.exe) · [Release notes](https://github.com/ThembaMahlangu/sphere-bot-updates/releases/tag/v1.0.15)
 
-```json
-{
-  "version": "v0.0.0",
-  "url": "https://github.com/…/releases/tag/v0.0.0",
-  "notes": "…",
-  "asset": { "id": 0, "name": "Sphere_Bot_0.18.0_Setup.exe", "size": 0, "sha256": "…" }
-}
-```
+- Installer: `Sphere_Bot_1.0.15_Setup.exe`
+- Size: 123,076,751 bytes
+- SHA-256: `8a25f9d01754f9382855f78104845fb064f4adfced15c6b53710ac88dd81f7b5`
 
-That link resolves only for someone signed in with access to the release. The
-application itself, its installer and its source are not here and are not
-public. Downloading the installer from inside the app needs the user's own
-GitHub token with read access to the release; the app checks the exact size and
-SHA-256 above before it will run anything.
+Only the current release is retained here. Application source is maintained separately. The installer is publicly downloadable without a GitHub token.
 
-`latest.json` is written by the app repository's `npm run release`, after the
-release and its installer exist, so it never names a release that is not there.
-Until the first release it does not exist, and the app says so.
+## Update feeds and versioning
+
+`latest.json` describes the published Windows EXE release. Its version uses a `v` prefix, currently `v1.0.15`; the installer filename uses the same numeric version without the prefix. It includes the private application release URL and asset identity used by existing updater configurations. The corresponding installer is also published in this public repository. Sphere verifies its size and SHA-256 before installation. The release script publishes both installers before advancing the feed.
+
+`store-latest.json` is a separate Microsoft Store channel. Its version is the last confirmed Microsoft-certified package, currently `1.0.11`, and uses no `v` prefix. Store ID: `9N7JZ3Z7XZ5B`. A newer EXE release or an unsigned Partner Center submission does not advance the certified Store feed. Microsoft supplies and installs Store updates.
+
+Release tags follow `vMAJOR.MINOR.PATCH`, such as `v1.0.15`. EXE and Store versions can differ while certification is pending.
