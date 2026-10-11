@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.0.15",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.0.15",
-  "notes": "Sphere Bot v1.0.15\n\n- Gentle Curve faces with realistic material and stable eye size across expressions and gaze.\n- Searchable, organized desktop settings and cleaner account/dashboard settings.\n- Interactive website product demo with whole messages, file previews and fitted computer scenes.\n- Account Codex model and reasoning selectors, plus redesigned sign-in and signup.\n- Reliable Restart and update shutdown, scoped local process cleanup and Sphere-branded update progress.\n- Disposable-email registration protection using a maintained domain list, with administrator controls to block existing accounts and pause their cloud computers.\n- Recovery of owned computers already paused during prior cleanup.\n\nThe Microsoft Store update is submitted separately and becomes available after Microsoft certification.\n",
+  "version": "v1.2.0",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.2.0",
+  "notes": "Sphere Bot 1.2.0\n\nCreate a team of AI bots and give each one a job. Follow conversations, computer work and returned files in one workspace.\n\n- Meet the Gentle Curve characters, with realistic materials, expressive eyes and a choice of shapes and colours.\n- Create your first bot with guided setup, example jobs and suggestions based on the tools you use.\n- Connect the services your tasks need and manage their permissions from the Connectors screen.\n- Personalise your workspace with organised settings for appearance, models, providers and your computer.\n- Continue working on Windows or in the web app with your Sphere account.\n\nExplore the refreshed website and getting-started guide at spherebotapp.com.\n",
   "asset": {
-    "id": 629347711,
-    "name": "Sphere_Bot_1.0.15_Setup.exe",
-    "size": 123076751,
-    "sha256": "8a25f9d01754f9382855f78104845fb064f4adfced15c6b53710ac88dd81f7b5"
+    "id": 629571312,
+    "name": "Sphere_Bot_1.2.0_Setup.exe",
+    "size": 123065121,
+    "sha256": "4a1ec829ad138b5a273ed57bb9ff3d40f38df8ae276679c22cb0c6c444256e89"
   }
 }
