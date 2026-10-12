@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.2.0",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.2.0",
-  "notes": "Sphere Bot 1.2.0\n\nCreate AI work companions and give each one a job. Follow conversations, computer work and returned files in one workspace.\n\n- Meet the Gentle Curve characters, with realistic materials, expressive eyes and a choice of shapes and colours.\n- Create your first work companion with guided setup, example jobs and suggestions based on the tools you use.\n- Connect the services your tasks need and manage their permissions from the Connectors screen.\n- Personalise your workspace with organised settings for appearance, models, providers and your computer.\n- Continue working on Windows or in the web app with your Sphere account.\n\nExplore the refreshed website and getting-started guide at spherebotapp.com.\n",
+  "version": "v1.2.1",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.2.1",
+  "notes": "Create named work companions with your choice of character and colour, and start named group conversations with the companions you choose.\n\nConnect GitHub through normal account sign-in and choose which repositories Sphere can access. Cloud coding work uses repository-specific access through Sphere Bot Workspace.\n\nChoose models with responsive routing controls, follow computer and browser activity with visible cursors, and manage companion names, titles and descriptions directly in conversation.\n\nExplore organized account settings and searchable connector and workspace controls.\n",
   "asset": {
-    "id": 629571312,
-    "name": "Sphere_Bot_1.2.0_Setup.exe",
-    "size": 123065121,
-    "sha256": "4a1ec829ad138b5a273ed57bb9ff3d40f38df8ae276679c22cb0c6c444256e89"
+    "id": 632893457,
+    "name": "Sphere_Bot_1.2.1_Setup.exe",
+    "size": 123113725,
+    "sha256": "3c870211da7f34eee55a8e72fbfd7c84434fa6f7424f1c7f8d1b1362a39b746f"
   }
 }
