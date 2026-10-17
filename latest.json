@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.3.2",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.2",
-  "notes": "Fixes desktop reconnection after updating while preserving your existing computer, files and conversations.\n\nAdds Storage to the profile menu: browse workspace files and folders, preview images, play video/audio, read PDFs, Word and text documents, download files, and confirm deletions. Settings Storage shows actual computer disk usage.\n\nSupports Modal computers alongside E2B and durable routines. Settings waits for available tabs to load together. Desktop bot visibility actions now say Show Bot or Hide Bot.\r\n",
+  "version": "v1.3.3",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.3",
+  "notes": "Sphere Bot 1.3.3 fixes managed and team routing permissions, including team owners, and keeps assigned routing separate from permitted Personal Codex and Personal API settings. Revoked permissions refresh in Settings without exposing personal configuration on managed routing.\n\nThis update also improves allocation styling, adds the sidebar usage ring with update priority, improves dashboard layouts, and fixes owned computer reconnection. The matching website uses a five-minute idle grace while protecting connected clients and active work.\n\nExisting bots, conversations, files, saved providers and inactive credentials are preserved.",
   "asset": {
-    "id": 645326327,
-    "name": "Sphere_Bot_1.3.2_Setup.exe",
-    "size": 123110922,
-    "sha256": "98c47306e23c9dcaef9eee0a26f0c05f40420a36057aa4289e1d5733593d0021"
+    "id": 649290105,
+    "name": "Sphere_Bot_1.3.3_Setup.exe",
+    "size": 123113721,
+    "sha256": "14bf4d49591ffdfe462f0e93b06427ff40723a531865f73784a25c42fac58314"
   }
 }
