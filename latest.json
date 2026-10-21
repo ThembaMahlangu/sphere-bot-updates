@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.3.5",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.5",
-  "notes": "Fix managed-account access and reconnect failures. Restore missing bots from the newest owned desktop backup while honoring intentional deletions. Provider changes start a fresh computer without automatic VM transfers.",
+  "version": "v1.3.6",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.6",
+  "notes": "Fix desktop recovery being interrupted by temporary website access checks. Improve connection startup waits and retry messages while preserving owned backups and intentional deletions.",
   "asset": {
-    "id": 663684055,
-    "name": "Sphere_Bot_1.3.5_Setup.exe",
-    "size": 123127421,
-    "sha256": "ad775bd1c8eb85370795490223f68fcef0d0cf3fa244e6ea395648588757b3a1"
+    "id": 663977223,
+    "name": "Sphere_Bot_1.3.6_Setup.exe",
+    "size": 123154484,
+    "sha256": "49f8636a9abeb8c966d196b6b0db11e9f98244a49a57985ed71fac703da01b7a"
   }
 }
