@@ -1,12 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.3.7",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.7",
-  "notes": "Sphere Bot v1.3.7 improves desktop responsiveness and attachment access.\n\n- Moves backup validation off the desktop thread, streams backup transfers, and reduces repeated background work.\n- Adds optional Profile → Recovery with saved-copy and bot selection, progress, and protection for existing data and intentional deletions.\n- Reduces VM connection setup calls and adds connection timing diagnostics.\n- Keeps allowed attachments available as files regardless of model-native inputs; PDF and DOCX tools return text, and partial web uploads can be retried.\n- Migrates the legacy data-root marker to the Sphere name without moving user data.\n\nScanned/image-only PDFs require OCR or suitable image tools. Unsupported formats retain their original file and receive a clear tool limitation.\n",
+  "version": "v1.3.8",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.8",
+  "notes": "Fixes VM connection stalls caused by busy runtime updates and premature desktop connection timeouts. Preserves the existing computer and ongoing work.",
   "asset": {
-    "id": 667571757,
-    "name": "Sphere_Bot_1.3.7_Setup.exe",
-    "size": 122969629,
-    "sha256": "a355517f34a37f14aee7d3be569cab1b1b9d0ddd61b7e5c4a767b6d854f61cfe"
+    "id": 669176193,
+    "name": "Sphere_Bot_1.3.8_Setup.exe",
+    "size": 122975197,
+    "sha256": "1d5770ddd691dfa3285a427c112dc6cb32a1a5271d24765214584adf169c8452"
   }
 }
