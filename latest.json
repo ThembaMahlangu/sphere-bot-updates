@@ -1,12 +1,11 @@
 {
   "product": "sphere-bot",
-  "version": "v1.3.8",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.8",
-  "notes": "Fixes VM connection stalls caused by busy runtime updates and premature desktop connection timeouts. Preserves the existing computer and ongoing work.",
+  "version": "v1.3.9",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.9",
   "asset": {
-    "id": 669176193,
-    "name": "Sphere_Bot_1.3.8_Setup.exe",
-    "size": 122975197,
-    "sha256": "1d5770ddd691dfa3285a427c112dc6cb32a1a5271d24765214584adf169c8452"
+    "id": 689687907,
+    "name": "Sphere_Bot_1.3.9_Setup.exe",
+    "size": 122976586,
+    "sha256": "4624dc4b4bc2615c767f070b9a7574931372445726b53f00e8c4597d691157df"
   }
 }
