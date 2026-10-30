@@ -1,11 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.3.9",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.9",
+  "version": "v1.3.10",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.10",
+  "notes": "Repair desktop cold-start authorization and connection readiness. Add independent image and video sources and shared conversation model settings for separate agents.",
   "asset": {
-    "id": 689687907,
-    "name": "Sphere_Bot_1.3.9_Setup.exe",
-    "size": 122976586,
-    "sha256": "4624dc4b4bc2615c767f070b9a7574931372445726b53f00e8c4597d691157df"
+    "id": 691936230,
+    "name": "Sphere_Bot_1.3.10_Setup.exe",
+    "size": 123026550,
+    "sha256": "5e447d599da4200188b86ef1784710864b3b61e60ffeb6f97aa25f1e8019434f"
   }
 }
