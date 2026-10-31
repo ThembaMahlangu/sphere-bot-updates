@@ -1,11 +1,12 @@
 {
   "product": "sphere-bot",
-  "version": "v1.3.9",
-  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.3.9",
+  "version": "v1.4.1",
+  "url": "https://github.com/ThembaMahlangu/sphere-bot/releases/tag/v1.4.1",
+  "notes": "Computer updates no longer leave older computers or idle accounts unable to connect, and say when a computer is already up to date. Routines can fire on Slack and GitHub events using your own connections. Connectors follow your administrator's settings, and Sphere no longer contacts any outside service it does not use.",
   "asset": {
-    "id": 689687907,
-    "name": "Sphere_Bot_1.3.9_Setup.exe",
-    "size": 122976586,
-    "sha256": "4624dc4b4bc2615c767f070b9a7574931372445726b53f00e8c4597d691157df"
+    "id": 694259453,
+    "name": "Sphere_Bot_1.4.1_Setup.exe",
+    "size": 122960352,
+    "sha256": "cb6df038cedfe04c912880c29ff0e5336eaa0faf1d53eeb8ee69fc78b1776fd8"
   }
 }
